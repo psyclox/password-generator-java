@@ -4,7 +4,7 @@ This is a Java program that generates secure random passwords of variable length
 
 ## Features
 
-- Generates random passwords with customizable length b/w (0-100).
+- Generates random passwords with customizable length .
 - Uses cryptographic-strength random number generation for enhanced security.
 - Provides a mix of lowercase letters, uppercase letters, digits, and special characters in the generated passwords.
 - Includes input validation to ensure a positive integer is provided for password length.
